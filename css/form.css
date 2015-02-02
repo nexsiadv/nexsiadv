@@ -1,0 +1,176 @@
+/* Form invio dati */
+
+.formdiv {
+	padding: 0px;
+}
+.fixed {
+	/*height: 800px;*/
+}
+.formdiv label, .formdiv .radiobutton {
+	position: relative;
+	float: left;
+	width: 630px;
+	margin: 3px 0px;
+	padding: 10px 10px;
+	border-bottom: dotted 1px #ccc;
+	/*background: #f9f9f9;*/
+}
+
+.formdiv .radiobutton label {
+	width: 166px;
+	margin: 0px;
+	padding-left: 35px;
+	margin-right: 5px;
+}
+.formdiv .radiobutton .userspan {
+	_width: 160px;
+}
+
+.formdiv .none {
+	background: none;	
+	border: none;
+}
+
+.formdiv label span {
+	float: left;
+	text-align: left;
+	width: 300px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.formdiv label span#state3 {
+	width: 300px;
+	height: 40px;
+	font-size: 12px;
+}
+.formdiv label span#state3 span.state3 {
+	background: url(../images/form/check_big.png) no-repeat 0 0;
+	padding-left: 50px;
+	font-size: 12px;
+	color: #093;
+}
+
+.formdiv label span small {
+	font-size: 10px;
+	font-weight: normal;
+}
+.formdiv label .inputfield {
+	float: left;
+	width: 300px;
+	font-size: 12px;
+	color: #666;
+	background: #fff url(../images/form/bg_input.jpg) repeat-x 0px 0px;
+	/*-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px 5px;*/
+}
+.formdiv label .select {
+	float: left;
+	width: 300px;
+	font-size: 12px;
+	color: #999;
+}
+
+
+.formdiv span.info {
+	position: absolute;
+	top: 0px;
+	right: -290px;
+	font-size: 12px;
+	color: #999; 
+	text-align: left;
+	padding: 10px 10px 10px 25px;
+	width: 255px;
+	height: 28px;
+	font-weight: bold;
+	background: url(../images/form/alert_box_info.png) no-repeat left center;
+	_background: url(../images/form/alert_box_info.gif) no-repeat left center;
+}
+
+.formdiv span.error {
+	position: absolute;
+	top: 0px;
+	right: -290px;
+	font-size: 12px;
+	color: #900; 
+	text-align: left;
+	padding: 10px 10px 10px 25px;
+	width: 255px;
+	height: 28px;
+	font-weight: bold;
+	background: url(../images/form/alert_box_error.png) no-repeat left center;
+	_background: url(../images/form/alert_box_error.gif) no-repeat left center;
+}
+
+.formdiv span.valid {
+	position: absolute;
+	top: 0px;
+	right: -290px;
+	font-size: 12px;
+	color: #090; 
+	text-align: left;
+	padding: 10px 10px 10px 25px;
+	width: 255px;
+	height: 28px;
+	font-weight: bold;
+	background: url(../images/form/alert_box_ok.png) no-repeat left center;
+	_background: url(../images/form/alert_box_ok.gif) no-repeat left center;
+}
+
+/*jquery radio button */
+
+.formdiv .state3down-sort{
+	background:transparent url(../images/form/sort-down.png) no-repeat scroll 0 0;
+	color:#333333;
+	padding: 7px 0px;
+	border: none;
+}
+.formdiv .state3down-sort:hover{
+	color:#B01062;
+}
+.formdiv .state3up-sort{
+	background:transparent url(../images/form/sort_all.png) no-repeat scroll 0 0;
+	_background:transparent url(../images/form/sort_all.gif) no-repeat scroll 0 0;
+	color:#333333;
+	padding: 7px 0px;
+	border: none;
+}
+.formdiv .state3up-sort:hover{
+	color:#B01062;
+}
+.formdiv .state3def-sort{
+	background:transparent url(../images/form/sort_all.png) no-repeat scroll 0 -31px;
+	_background:transparent url(../images/form/sort_all.gif) no-repeat scroll 0 -31px;
+	color:#999999;
+	padding: 7px 0px;
+	border: none;
+}
+.formdiv .state3def-sort:hover{
+	color: #B01062;
+}
+
+/* stylize select */
+
+.customStyleSelectBox {
+	width: 290px;
+	font-size:12px;
+	font-weight: normal;
+	background: #fff url(../images/form/bg_select.jpg) repeat-x 0 bottom;
+	padding:5px 7px;
+	color: #666;
+	border:1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px 5px;
+}
+
+.customStyleSelectBox.changed {
+/* You can use this if you want a different style after user has made a selection */
+}
+
+/* on the next line we add a down arrow on the right to indicate that it is a select box */
+.customStyleSelectBoxInner {
+	background:url(../images/form/canvas-list-nav-item-arrow-.gif) no-repeat right center;
+	width: 290px;
+}

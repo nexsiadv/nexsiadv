@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /materiale/
+Disallow: /inc_web/
+Disallow: /conf/
+Disallow: /js/
+Disallow: /css/
+Disallow: /wip_v1/
+Disallow: /wip_v2/
+Disallow: /wip_v3/
+Disallow: /wip_v4/
+Disallow: /wip_v5/
+Disallow: /invio_richiesta_collaborazioni.php
+Disallow: /invio_richiesta_info.php

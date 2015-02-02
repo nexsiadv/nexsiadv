@@ -1,0 +1,2 @@
+<li><a href="<?php echo $server_url; ?>web-marketing/seo-search-engine-optimization.php#tab2" title="SEO - Search Engine Optimization." <?php echo $menu_sec['voce2']?> >Seo (search engine optimization)</a></li>
+<li><a href="<?php echo $server_url; ?>web-marketing/sem-search-engine-marketing.php#tab2" title="SEM - Search Engine Marketing" <?php echo $menu_sec['voce3']?> >Sem (search engine marketing)</a></li>

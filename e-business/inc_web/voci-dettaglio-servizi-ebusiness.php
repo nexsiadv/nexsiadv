@@ -1,0 +1,3 @@
+<li><a href="<?php echo $server_url; ?>e-business/e-business-pianificazione-strategica-costi-obiettivi.php#tab2" title="Analisi e studi preliminari per l'integrazione e-business"<?php echo $menu_sec['voce2']?>>Consulenza e analisi e-business</a></li>
+<li><a href="<?php echo $server_url; ?>e-business/sviluppo-contesti-soluzioni-business-to-business-b2b.php#tab2" title="Soluzioni a supporto del business e delle relazioni con partners e fornitori"<?php echo $menu_sec['voce3']?>>Soluzioni per l' e-Business B2B</a></li>
+<li><a href="<?php echo $server_url; ?>e-business/sviluppo-contesti-soluzioni-business-to-consumer-b2c.php#tab2" title="Soluzioni a supporto del business e delle vendite online"<?php echo $menu_sec['voce4']?>>Soluzioni per l' e-Commerce B2C</a></li>

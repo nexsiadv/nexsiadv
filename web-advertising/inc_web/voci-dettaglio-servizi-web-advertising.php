@@ -1,0 +1,2 @@
+<li><a href="<?php echo $server_url; ?>web-advertising/campagne-pubblicitarie-google.php#tab2" title="Campagne pubblicitarie Google" <?php echo $menu_sec['voce1']?> >Campagne pubblicitarie Google</a></li>
+<li><a href="<?php echo $server_url; ?>web-advertising/campagne-pubblicitarie-online.php#tab2" title="Campagne pubblicitarie online" <?php echo $menu_sec['voce2']?> >Campagne pubblicitarie online </a></li>
