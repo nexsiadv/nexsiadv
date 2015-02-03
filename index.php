@@ -37,7 +37,7 @@
         </div>
     </div>
     <div class="clearer forty"></div>
-    <div class="clearer forty"></div>
+    <!--<div class="clearer forty"></div>
     <div class="half">
         <h2 class="icon_case_study">Casi di studio</h2>
     </div>
@@ -53,19 +53,19 @@
                 <h3>Portale  informativo e  sistema di configurazione e vendita di impianti fotovoltaici</h3>
                 <p>Conto-energia.biz è un portale dedicato al mondo del fotovoltaico. Ricco di contenuti informativi, il suo punto di forza &egrave; l'esclusivo "configuratore d'impianto", che permette di valutare in tempo reale la realizzazione del proprio impianto...</p>
                 <a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php" class="button_segui_reflex">scopri di pi&ugrave; &raquo;</a> </li>
-            <li><a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php"><img src="<?php echo $server_url; ?>images/case-study/es_1_thumb.png" width="332" height="203" alt="Schermata home page EcoSeekr.eu"></a>
+				<li><a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php"><img src="<?php echo $server_url; ?>images/case-study/es_1_thumb.png" width="332" height="203" alt="Schermata home page EcoSeekr.eu"></a>
                 <h2>EcoSeekr</h2>
                 <h3>Fiera virtuale rivolta a tutti gli operatori direttamente e indirettamente operanti nel settore dell'ambiente, energia e rifiuti</h3>
                 <p></p>
                 <a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php" class="button_segui_reflex">scopri di pi&ugrave; &raquo;</a> </li>
-<!--            <li><a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php"><img src="<?php echo $server_url; ?>images/case-study/hp_1_thumb.png" width="332" height="203" alt="Schermata home page HostessPRO.it"></a>
+				<li><a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php"><img src="<?php echo $server_url; ?>images/case-study/hp_1_thumb.png" width="332" height="203" alt="Schermata home page HostessPRO.it"></a>
                 <h2>HostessPRO</h2>
                 <h3>Portale per corsi e workshop in tutta italia per Hostess congressuali, eventi o promoter.</h3>
                 <p></p>
                 <a href="<?php echo $server_url; ?>su-noi/casi-di-studio.php" class="button_segui_reflex">scopri di pi&ugrave; &raquo;</a> </li>
--->
+
         </ul>
-    </div>
+    </div>-->
     <div class="half">
         <h2 class="icon_social_area">Social Area</h2>
     </div>
