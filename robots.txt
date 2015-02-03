@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /
 Disallow: /materiale/
 Disallow: /inc_web/
 Disallow: /conf/
