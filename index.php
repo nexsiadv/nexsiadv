@@ -11,7 +11,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Nexsiadv, Il primo E-Business System Provider in Italia</title>
-<?php @include($server_pth."/inc_web/header-util.php"); ?>
+<?php @include($server_pth."inc_web/header-util.php"); ?>
 <link href="<?php echo $server_url; ?>css/tabs-slideshow.css" rel="stylesheet" type="text/css">
 </head>
 <body>
