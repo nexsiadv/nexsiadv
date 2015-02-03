@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Consulenze, analisi e strategie per lo sviluppo di e-Business; Piani di budget, strategie e consulenza per la pianificazione di applicazioni di E-Business, Web Marketing e Marketing MIX per il web</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -64,11 +64,11 @@
                     <div class="ribbon_tips"></div>
                     <p>Alcune ricerche (bauer 2002) evidenziano come internet possa influenzare in modo positivo la costruzione di una relazione tra fornitore e cliente e accrescere il livello reciproco di fiducia, percorso essenziale per raggiungere situazioni di fedeltà e lealtà. </p>
                 </div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

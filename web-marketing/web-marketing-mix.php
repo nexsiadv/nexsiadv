@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Modificare il marketing mix per adottarlo al web ed attivare una soluzione e-business di successo</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
@@ -22,12 +22,12 @@
 </script>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title web_marketing">Web Marketing</h2>
 </div>
 <div id="content" class="clearfix">
-    <?php @include($server_pth."inc_web/tabs.php"); ?>
+    <?php @include($server_pth."../inc_web/tabs.php"); ?>
     <div class="tab_container">
         <div class="tab_content">
             <?php @include("inc_web/a-cosa-serve.php"); ?>
@@ -72,11 +72,11 @@
                     <p><em>Le anatre depongono le loro uova in silenzio. Le galline invece starnazzano come impazzite. Qual è la conseguenza? Tutto il mondo mangia uova di gallina.<br>
                         H.Ford</em></p>
                 </div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

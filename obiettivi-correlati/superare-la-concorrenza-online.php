@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Servizi, strategie e consulenze di web marketing per superare i tuoi concorrenti online</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title obiettivi">i tuoi obiettivi</h2>
 </div>
@@ -48,11 +48,11 @@
                     <p>&quot;La rete diventa protagonista di un rapporto di prestazione di servizio. Successivamente le imprese usano il Web per sviluppare proprie relazioni di affari con i loro clienti, che possono riguardare processi comuni di tipo complesso ed innalzando notevolmente la qualità della comunicazione.&quot;<br>
                         Tiziano Vescovi - Prof. di Economia e Gestione delle imprese universita Ca' Foscari di Venezia. </p>
                 </div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

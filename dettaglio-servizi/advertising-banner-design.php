@@ -12,10 +12,10 @@ ad network,flash banner creator,creare banner flash,banner in flash,banner rotat
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Display advertising e banner design, sviluppo e ideazione di banner pubblicitari per il web e i nuovi media</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -39,11 +39,11 @@ ad network,flash banner creator,creare banner flash,banner in flash,banner rotat
                 <p>La campagna viene costantemente monitorata attraverso strumenti di tracking specifici. </p>
                 <p>La misurazione e vendita degli spazi viene effettuata per impression o CPM (cost per mille impression), tale dato rappresenta la visualizzazione del banner da parte dell'utente. Il click through rate (CTR) rappresenta il numero di click da parte dei visitatori del sito sul banner o link in generale, ma solo se questi hanno poi realmente raggiunto il contenuto richiesto e linkato nella pubblicità. L'efficacia di una campagna si misura perciò con il click rate (CR), cioè il rapporto percentuale tra il numero di Impression erogate di un Ad e il numero di AdClick sullo stesso.</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

@@ -13,10 +13,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Sviluppo contesti e soluzioni per il business to business (B2B)</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -67,11 +67,11 @@
                     <div class="ribbon_tips"></div>
                     <p>Le aziende che agiscono nei business web hanno generalmente le  loro catene del valore integrate in internet per raggiungere maggiore  efficienza nelle operazioni e sviluppare vantaggi di posizionamento. Alcune volte internet modifica fortemente ilo modello di  business seguito, in altri casi lo completa. Si tratta ovviamente di scelte.</p>
                 </div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

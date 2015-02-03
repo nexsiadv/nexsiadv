@@ -12,10 +12,10 @@ servizi seo,esperto seo,registrazione motori ricerca,posizionamento sui motori d
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>SEO, servizio di ottimizzazione ed indicizzazione del sito web in Google e nei motori di ricerca senza pubblicita a pagamento tramite l'inserimento organico</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -71,11 +71,11 @@ servizi seo,esperto seo,registrazione motori ricerca,posizionamento sui motori d
                     </tr>
                 </table>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

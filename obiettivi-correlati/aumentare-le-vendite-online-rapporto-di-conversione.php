@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Servizi e consulenze per aumentare le vendite online, migliorare il rapporto di conversione tra utenti e acquirenti, e le performance generali del tuo e-business o e-commerce</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title obiettivi">i tuoi obiettivi</h2>
 </div>
@@ -68,11 +68,11 @@
                     <p>Ottieni il massimo dal tuo investimento online aumentando il tasso di converisone del tuo contesto e-business o e-commerce!<br>
                     </p>
                 </div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>

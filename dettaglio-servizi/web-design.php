@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Admize, consulenze e progetti per il web Design, scopri i nostri servizi per il web design, l'interfaccia utente e la gestione della canalizzazione delle visite per il tuo sito web</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -35,11 +35,11 @@
                 <p> <strong>Nell'utente soddisfatto si genera subito un parere  positivo e diffuso sulla tua attività online che si espande fino al concetto reale della tua azienda. </strong></p>
                 <p> Un <strong>corretto equilibrio, tra forma, funzione, canalizzazione utente ed iterazione con il software </strong>è un compito difficile che noi ci sentiamo in grado di assolvere con la più assoluta sicurezza e serenità. </p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>
