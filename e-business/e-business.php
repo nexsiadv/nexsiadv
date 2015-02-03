@@ -21,7 +21,7 @@
 </script>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include("inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title ebusiness">E-Business</h2>
 </div>
