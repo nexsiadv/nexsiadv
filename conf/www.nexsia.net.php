@@ -1,7 +1,7 @@
 <?php 
 
 $server_pth = "/";
-$server_url = "http://www.nexsiadv.net/";
+$server_url = "http://www.nexsia.net/";
 $company ="Nexsiadv"
 
 ?>
