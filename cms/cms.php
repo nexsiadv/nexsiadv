@@ -14,7 +14,7 @@ content management site,web content manager,agenzia siti web, progettazione sito
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Ti aiutiamo a personalizzare in funzione delle necessità della tua organizzazione qualsiasi tipo di software CMS per editare e gestire il tuo piccolo sito aziendale in modo autonomo</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."../inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
 $(function() {
@@ -24,7 +24,7 @@ $(function() {
 </script>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."../inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title cms">Content Management System</h2>
 </div>
@@ -65,11 +65,11 @@ $(function() {
                 <h3>I principali vantaggi di un CMS</h3>
                 <p><strong>Il CMS &egrave; un software pronto all’uso, semplice da usare, che non richiede competenze specifiche di programmazione. E’ uno strumento completo per editare e gestire autonomamente tutti i contenuti editoriali di un piccolo sito web aziendale.</strong></p>
                 <p><strong>Tuttavia, per essere realmente funzionale  e performante, un CMS deve essere configurato in funzione delle reali necessit&agrave; dell’azienda e del web aziendale, </strong>motivo per il quale si devono apporre modifiche sostanziali, configurazioni e settaggi sul database, il server web e le interfacce grafiche ed al contempo garantire il corretto interfacciamento con  i software aziendali gi&agrave; esistenti.</p>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."../inc_web/footer.php"); ?>
 </body>
 </html>
