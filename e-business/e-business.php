@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Admize &egrave; il tuo consulente e fornitore di soluzioni e-business evolute per aumentare la competivit&agrave; della tua azienda.</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
 	$(function() {
@@ -21,7 +21,7 @@
 </script>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title ebusiness">E-Business</h2>
 </div>
