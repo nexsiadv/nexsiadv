@@ -57,7 +57,7 @@
             <li>
                 <h3>Su di noi</h3>
                 <ul class="submenu">
-                    <?php @include($server_pth."inc_web/su-noi.php"); ?>
+                    <?php @include($server_pth."/inc_web/su-noi.php"); ?>
                     <li><a href="<?php echo $server_url; ?>lavora-con-noi.php">Lavora con noi</a></li>
                 </ul>
             </li>
