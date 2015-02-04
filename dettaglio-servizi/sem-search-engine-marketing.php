@@ -12,10 +12,10 @@ search engine marketing optimization,search advertising,internet search marketin
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>SEM, search engine marketing il web marketing per internet ed i motori di ricerca</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -91,11 +91,11 @@ search engine marketing optimization,search advertising,internet search marketin
                     </tr>
                 </table>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

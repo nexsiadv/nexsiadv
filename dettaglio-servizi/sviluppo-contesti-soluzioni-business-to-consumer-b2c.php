@@ -12,10 +12,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Sviluppo contesti e soluzioni per il business to consumer (B2C)</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -62,11 +62,11 @@
                     <div class="ribbon_tips"></div>
                     <p>Internet, opportunamente integrato, aiuta lo sviluppo e il rafforzamento del valore delle relazioni con i propri clienti e fornitori, modificandone l'evoluzione, la facilit&agrave;, i tempi di attuazione e le modalit&agrave; costruttive. In altre parole ricostituisce le strategie di connettivit&agrave; con il mercato e la loro attuazione operativa.</p>
                 </div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

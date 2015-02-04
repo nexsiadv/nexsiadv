@@ -14,10 +14,10 @@ developer web,design development,development web">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Web content development, servizi, studi e consulenze per migliorare e gestire i tuoi contenuti online</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -46,11 +46,11 @@ developer web,design development,development web">
                 <h3>Architettura dell'informazione </h3>
                 <p>L' identificazione di un obiettivo ad hoc, la navigazione e il codice visivo <strong>possano trasformare un sito web in un negozio dove  proliferano le vendite e gli ordini anziché visite vuoto! </strong>Attraverso la nostra continua ricerca <strong>progettiamo siti web con criteri di canalizzazione ed informazione (tipici del web)</strong> che soddisfano le esigenze dei visitatori.</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>
