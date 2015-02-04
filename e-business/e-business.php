@@ -1,5 +1,4 @@
 <?php
-	echo "sdfsdfsdfdsfds";
 	$menu['e-business']='class="active"';
 	$menu_sec['voce0']='class="active"';
 	include("../conf/".$_SERVER['SERVER_NAME'].".php");
