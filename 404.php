@@ -8,7 +8,7 @@
 <meta name="description" content="Pagina 404">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>ADmize | OPS!! Sei capitato sulla pagina 404!</title>
+<title>Nexsiadv | OPS!! Sei capitato sulla pagina 404!</title>
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.devslide.com/public/labs/browser-detection/browser-detection.css" />
 <script type="text/javascript" src="http://www.devslide.com/public/labs/browser-detection/browser-detection.js"></script>
 <script type="text/javascript">
@@ -51,7 +51,7 @@ header #panes div {
 <link href="<?php echo $server_url; ?>css/utility.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title">OPS!</h2>
 </div>
@@ -64,6 +64,6 @@ header #panes div {
     </div>
 </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

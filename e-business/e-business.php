@@ -11,7 +11,7 @@
 <meta name="keywords" content="e-business, e-marketing, strategie di marketing online, web marketing, internet business model, marketing mix, web, mix, media marketing, web marketing mix, business plan web, piano marketing web, comunicazione integrata, analisi web, performance web, e-commerce, e-business, system provider, trovare nuovi clienti, trovare clienti nuovi, concorsi a premi, pubblicit&agrave; su interent, costo pubblicit&agrave; su internet, costo pubblicit&agrave;, marketing mix per il web, vendere prodotti online, business to business, piano industriale impresa internet ">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Admize &egrave; il tuo consulente e fornitore di soluzioni e-business evolute per aumentare la competivit&agrave; della tua azienda.</title>
+<title>Nexsiadv &egrave; il tuo consulente e fornitore di soluzioni e-business evolute per aumentare la competivit&agrave; della tua azienda.</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
@@ -44,7 +44,7 @@
                 <p>Crediamo profondamente che il business sia socialit&agrave; e che i migliori affari si basino su stima e fedelt&agrave; reciproca tra fornitore e consumatore. </p>
                 <p>Per mezzo delle nuove tecnologie, <strong>si possono velocizzare, gestire  ed ampliare tutti i livelli di comunicazione integrata tra la vostra impresa, gli account, i fornitori ed i clienti </strong><strong>organizzando e supportando lo scambio reciproco di informazioni </strong><em>- premesse di fondamentale importanza per la conoscenza della vostra impresa e dei vostri prodotti </em>semplicemente, attraverso l'utilizzo comportamenti propri del web.</p>
                 <p>Per questo ed altri principali motivi <strong>vi offriamo soluzioni evolute di E-Business, Marketing Intelligence, Web Markerting e Comunicazione integrata destinate ad operatori di mercato industriale o di consumo,</strong> in grado di far accrescere la fedelt&agrave; e la fiducia nelle relazioni.</p>
-                <p> Admize <strong>&egrave; il partner ideale per la consulenza e lo sviluppo di nuove strategie per la connettivit&agrave; con il mercato e la loro attuazione operativa.</strong> Sviluppiamo innovativi modelli di E-Business per aumentare la tua competivitivit&agrave; integrando internet nel tuo modello di business.
+                <p> Nexsiadv <strong>&egrave; il partner ideale per la consulenza e lo sviluppo di nuove strategie per la connettivit&agrave; con il mercato e la loro attuazione operativa.</strong> Sviluppiamo innovativi modelli di E-Business per aumentare la tua competivitivit&agrave; integrando internet nel tuo modello di business.
                 <div class="clearer twenty"></div>
                 <div class="tips yellow">
                     <div class="ribbon_tips"></div>

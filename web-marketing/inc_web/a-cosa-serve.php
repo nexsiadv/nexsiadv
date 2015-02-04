@@ -10,6 +10,6 @@
     <h2>Cosa possiamo fare per te...</h2>
     <h3>Ti aiutiamo a sviluppare il corretto MARKETING MIX per il web e <strong>generiamo traffico qualificato</strong> verso il tuo sito web, <strong>trasformando</strong>, <strong>le visite in utenti, e gli utenti in vendite.</strong></h3>
     <h3><strong>Pensa a cosa vuol dire modificare un aumento delle vendite online (o tasso di conversione) dal 2% a 4% !</strong></h3>
-    <h3>In Admize <strong>conosciamo bene come raggiungere e mantenere il corretto equilibrio tra costi e benefici </strong>e siamo pronti ad attuare le migliori strategie di web marketing, advertising e comunicazione integrata in funzione del ROI <em>(ritorno dell'investimento)</em> ed il raggiungemento dei tuoi obiettivi.</h3>
+    <h3>In Nexsiadv <strong>conosciamo bene come raggiungere e mantenere il corretto equilibrio tra costi e benefici </strong>e siamo pronti ad attuare le migliori strategie di web marketing, advertising e comunicazione integrata in funzione del ROI <em>(ritorno dell'investimento)</em> ed il raggiungemento dei tuoi obiettivi.</h3>
     <?php @include($server_pth."/inc_web/request_button.php"); ?>
 </div>

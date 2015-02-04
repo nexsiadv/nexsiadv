@@ -48,7 +48,7 @@ search engine marketing optimization,search advertising,internet search marketin
                     per raggiungere con metodo e controllo il volume di vendite</strong> o le richieste di informazioni o di offerta che ti interessa ricevere dal web.</p>
                 <h3>Costruisci online la tua leadership!</h3>
                 <p>A prescindere da quale servizio o prodotto trattiate, <strong>in internet ed attraverso una corretto piano di marketing per il web</strong>, hai l'opportunità di costrutire per la tua organizzazione - <em>e ad investimenti comunque contenuti</em> - <strong>una forte reputazione ed  una presenza di rilievo</strong> per rafforzare il brand e sopravanzare rispetto ai vostri competitor. </p>
-                <p> Noi di Admize attraverso i nostri <strong>servizi integrati per lo sviluppo del tuo e-marketing e e-business intelligence</strong> possiamo occuparci della pianificazione e della gestione delle tue <strong>strategie di web marketing</strong> e campagne di <strong>advertising online</strong> in Italia ed all'estero. </p>
+                <p> Noi di Nexsiadv attraverso i nostri <strong>servizi integrati per lo sviluppo del tuo e-marketing e e-business intelligence</strong> possiamo occuparci della pianificazione e della gestione delle tue <strong>strategie di web marketing</strong> e campagne di <strong>advertising online</strong> in Italia ed all'estero. </p>
                 <h3>Come procediamo</h3>
                 <ul class="dot">
                     <li>Eseguiamo uno studio accurato del'arena competitiva</li>

@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /
+Disallow: /su-noi/persone.php
 Disallow: /materiale/
 Disallow: /inc_web/
 Disallow: /conf/
@@ -10,5 +11,6 @@ Disallow: /wip_v2/
 Disallow: /wip_v3/
 Disallow: /wip_v4/
 Disallow: /wip_v5/
+Disallow: /invio_email.php
 Disallow: /invio_richiesta_collaborazioni.php
 Disallow: /invio_richiesta_info.php

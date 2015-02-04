@@ -6,11 +6,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Condizioni generali di uso dei servizi Admize">
-<meta name="keywords" content="contratti, contratto, condizioni generali di utilizzo dei servizi, vendita, contratto admize">
+<meta name="description" content="Condizioni generali di uso dei servizi Nexsiadv">
+<meta name="keywords" content="contratti, contratto, condizioni generali di utilizzo dei servizi, vendita, contratto Nexsiadv">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Condizioni generali di uso dei servizi Admize</title>
+<title>Condizioni generali di uso dei servizi Nexsiadv</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
@@ -29,7 +29,7 @@
             </div>
             <div class="dx">
                 <div class="clearer thirty"></div>
-                <h2>Condizioni generali per l'erogazione dei servizi Admize</h2>
+                <h2>Condizioni generali per l'erogazione dei servizi Nexsiadv</h2>
                 <h3>Introduzione</h3>
                 <p>testo normativa</p>
                 <div class="clearer twenty"></div>

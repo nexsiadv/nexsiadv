@@ -50,8 +50,8 @@
 	//se tutto e' corretto viene inviata la mail
 	
 	if(!isset($hasError)){
-		$emailTo = 'info@admize.it'; 
-		$subject = 'Richiesta informazioni sui servizi dal sito Admize da: ' . $email3;
+		$emailTo = 'info@nexsiadv.com'; 
+		$subject = 'Richiesta informazioni sui servizi dal sito Nexsiadv da: ' . $email3;
 		$headers = 'MIME-Version: 1.0' . "\r\n";
 		$headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 		//$headers .= 'Richiesta di contatto da: ' . $email3;
@@ -110,14 +110,14 @@
 		//$body = "Nome: $nome \nCognome: $cognome  \nEmail: $email3 \nAzienda/Ragione Sociale: $ragsoc \nFatturato: $fatturato \nTelefono: $tel \nMessaggio: $messaggio;";
 		
 		$autoTo = $email3;
-		$autoreplySubject = "Conferma ricezione email Admize";
+		$autoreplySubject = "Conferma ricezione email Nexsiadv";
 		$autoreplyMessage = "Grazie per averci contattato. Verrete al piu' presto richiamati da un nostro responsabile.";
 		
 		$mail = mail($emailTo, $subject, $body, $headers);
 		
 		if($mail){
 			echo 'OK';
-			mail($autoTo, $autoreplySubject, $autoreplyMessage, 'From: noreply@admize.it');
+			mail($autoTo, $autoreplySubject, $autoreplyMessage, 'From: noreply@nexsiadv.com');
 		}
 		else
 		{

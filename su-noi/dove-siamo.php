@@ -7,11 +7,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Dove siamo, indirizzo e indicazioni stradali di admize srl">
+<meta name="description" content="Dove siamo, indirizzo e indicazioni stradali di Nexsiadv">
 <meta name="keywords" content="dove siamo, indiacazioni stradali, mappa, uffici, ufficio, sede legale">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Dove siamo, indirizzo e indicazioni stradali di admize srl</title>
+<title>Dove siamo, indirizzo e indicazioni stradali di Nexsiadv</title>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=it&amp;key=ABQIAAAAzqsavBJCgG867oSmqSeLyBTtth_er7mFMtpWXhZZPzvbi9Ka7RR80ELa7nUGZVq6bHYsFkjcKXaDJw"></script>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script type="text/javascript">
@@ -41,10 +41,10 @@ function initialize() {
 	
 	// Crea il codice per il tooltip di info 
 	var tooltip = '<div id="tooltip">'+
-        '<h3>Admize Srl</h3>'+
+        '<h3>Nexsiadv </h3>'+
         '<p>Via Nicolodi 54,<br>'+
         '57121 Livorno (Italy).<br>'+
-        'Mail: <a href="mailto:info@admize.it">info@admize.it</a><br>'+
+        'Mail: <a href="mailto:info@nexsiadv.com">info@nexsiadv.com</a><br>'+
         'Telefono: (+39) 0586 405267</p>'+
         '</div>';
 		

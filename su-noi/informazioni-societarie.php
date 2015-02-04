@@ -7,8 +7,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Informazioni societarie e bancarie di admize srl">
-<meta name="keywords" content="informazioni, societa, societarie, admize, srl">
+<meta name="description" content="Informazioni societarie e bancarie di Nexsiadv">
+<meta name="keywords" content="informazioni, societa, societarie, nexsiadv">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Informazioni societarie e bancarie</title>
@@ -44,7 +44,7 @@ table td{
                 <table width="100%" border="0" cellspacing="0">
                     <tr>
                         <td width="30%" valign="top"><strong>Ragione sociale:</strong></td>
-                        <td width="70%" valign="top"><strong>Admize SRL</strong></td>
+                        <td width="70%" valign="top"><strong>Nexsiadv</strong></td>
                     </tr>
                     <tr>
                         <td valign="top"><strong>Partita iva:</strong></td>

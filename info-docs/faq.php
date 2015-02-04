@@ -5,13 +5,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="ADmize aiuta piccole e grandi aziende ad integrare con profitto il web nei propri processi di business 
+<meta name="description" content="Nexsiadv aiuta piccole e grandi aziende ad integrare con profitto il web nei propri processi di business
 per accrescerne la competitivit&agrave;, la produttivit&agrave; o definire nuovi scenari competitivi">
 <meta name="keywords" content="e-business, e-marketing, strategie di marketing online, web marketing, internet business model, marketin mix, web, mix, media marketing, piano marketing, business plan, 
 piano marketing, comunicazione integrata, analisi web, performance web, e-commerce, e-business, system provider">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>ADmize | Il primo E-Business System Provider in Italia</title>
+<title>Nexsiadv | Il primo E-Business System Provider in Italia</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
@@ -47,11 +47,11 @@ piano marketing, comunicazione integrata, analisi web, performance web, e-commer
         <h3>Domande di carattere tecnico</h3>
         <div class="clearer ten"></div>
         <p><strong>Domanda 1</strong></p>
-        <p>Al fine di far rendere al  massimo il vostro <a href="../e-business">e-business</a> si deve poter ottenere un <strong>equilibrio tra il traffico</strong> - proveniente dal web attraverso la  pubblicit&agrave; (<a href="<?php echo $server_url; ?>web-advertising">web advertising</a>) - e la <strong>valorizzazione  di ogni singola visita</strong> da parte di un vostro potenziale cliente. <strong>In </strong>ADmize conosciamo bene come raggiungere e mantenere il corretto <strong>equilibrio tra costi e benefici</strong>. </p>
+        <p>Al fine di far rendere al  massimo il vostro <a href="../e-business">e-business</a> si deve poter ottenere un <strong>equilibrio tra il traffico</strong> - proveniente dal web attraverso la  pubblicit&agrave; (<a href="<?php echo $server_url; ?>web-advertising">web advertising</a>) - e la <strong>valorizzazione  di ogni singola visita</strong> da parte di un vostro potenziale cliente. <strong>In </strong>Nexsiadv conosciamo bene come raggiungere e mantenere il corretto <strong>equilibrio tra costi e benefici</strong>. </p>
         <div class="clearer twenty"></div>
         <div class="clearer ten"></div>
         <p><strong>Domanda 2</strong></p>
-        <p>Al fine di far rendere al  massimo il vostro <a href="../e-business">e-business</a> si deve poter ottenere un <strong>equilibrio tra il traffico</strong> - proveniente dal web attraverso la  pubblicit&agrave; (<a href="<?php echo $server_url; ?>web-advertising">web advertising</a>) - e la <strong>valorizzazione  di ogni singola visita</strong> da parte di un vostro potenziale cliente. <strong>In </strong>ADmize conosciamo bene come raggiungere e mantenere il corretto <strong>equilibrio tra costi e benefici</strong>. </p>
+        <p>Al fine di far rendere al  massimo il vostro <a href="../e-business">e-business</a> si deve poter ottenere un <strong>equilibrio tra il traffico</strong> - proveniente dal web attraverso la  pubblicit&agrave; (<a href="<?php echo $server_url; ?>web-advertising">web advertising</a>) - e la <strong>valorizzazione  di ogni singola visita</strong> da parte di un vostro potenziale cliente. <strong>In </strong>Nexsiadv conosciamo bene come raggiungere e mantenere il corretto <strong>equilibrio tra costi e benefici</strong>. </p>
         <div class="clearer twenty"></div>
         <a href="<?php echo $server_url; ?>richiesta-informazioni.php" class="button_request_short">inviaci i tuoi dati e scopri come migliorare la produttivit&agrave; tua e della tua azienda</a>
         <div class="clearer twenty"></div>

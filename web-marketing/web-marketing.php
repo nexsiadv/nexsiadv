@@ -58,9 +58,9 @@
                 <h3>Hai appena avviato il tuo nuovo e-business online?</h3>
                 <p>Adesso hai bisogno della nostre competenze in WEB MARKETING e ADVERTISING per poter cogliere a pieno il successo che desideri. <em>- Vi sarete sicuramente accorti che un nuovo sito web non genera automaticamente un boom di traffico ed una aumento delle vendite! </em></p>
                 <p>Per <strong>incrementare il numero delle vendite si deve apportare traffico e nuovi utenti</strong>, ma tuttavia cosa accade se questo traffico è troppo, oppure se non conduce ad una vendita o ad una richiesta di offerta? <em>-A che che serve un sito web con un altissimo tasso di conversione senza un proporzionato traffico di utenti? </em>
-                <h3>Prova a migliorare le performance del tuo e-business con Admize!</h3>
+                <h3>Prova a migliorare le performance del tuo e-business con Nexsiadv!</h3>
                 <p>Al fine di far rendere al  massimo il vostro <a href="<?php echo $server_url; ?>e-business">e-business</a> si deve poter ottenere un <strong>equilibrio tra il traffico</strong> - proveniente dal web attraverso la  pubblicit&agrave; (<a href="../web-advertising">web advertising</a>) - e la <strong>valorizzazione  di ogni singola visita</strong> da parte di un vostro potenziale cliente.</p>
-                <p> In Admize conosciamo bene come raggiungere e mantenere il corretto equilibrio tra costi e benefici. </p>
+                <p> In Nexsiadv conosciamo bene come raggiungere e mantenere il corretto equilibrio tra costi e benefici. </p>
                 <div class="clearer twenty"></div>
                 <div class="tips yellow">
                     <div class="ribbon_tips"></div>

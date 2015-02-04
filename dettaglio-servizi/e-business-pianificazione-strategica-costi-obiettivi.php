@@ -40,7 +40,7 @@
                     <li>Sviluppare  e rafforzare il  valore delle relazioni  con i propri clienti e fornitori, costituendo nuove strategie di connettivit&agrave;</li>
                     <li>Individuare  una nuova strategia di crescita organica del  modello di e-business in modo misurabile ed in funzione di costi, tempi ed obiettivi. </li>
                 </ul>
-                <p>In Admize Abbiamo la visione  globale e costante dell'ecosistema web e ne conosciamo a fondo le dinamiche  competitive. Per questo nella nostra ANALISI &amp; CONSULENZA di E-BUSINESS possiamo  individuare con sicurezza le reali opportunit&agrave; di business e  le aspettative realistiche in funzioni degli  obiettivi ed al contempo marginalizzare i rischi e le pericolosit&agrave;.</p>
+                <p>In Nexsiadv Abbiamo la visione  globale e costante dell'ecosistema web e ne conosciamo a fondo le dinamiche  competitive. Per questo nella nostra ANALISI &amp; CONSULENZA di E-BUSINESS possiamo  individuare con sicurezza le reali opportunit&agrave; di business e  le aspettative realistiche in funzioni degli  obiettivi ed al contempo marginalizzare i rischi e le pericolosit&agrave;.</p>
                 <h3>Struttura dell'analisi di E-Business</h3>
                 <ul class="dot">
                     <li>Disamina del contesto web o del modello di e-business  utilizzato in azienda.</li>

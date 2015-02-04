@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Casi di studio admize srl, soluzioni e-business web 2.0">
+<meta name="description" content="Casi di studio nexsiadv srl, soluzioni e-business web 2.0">
 <meta name="keywords" content="casi di studio, piattaforme, web 2.0, e-business, e-marketing, consulente, consulenza">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />

@@ -8,7 +8,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="Vision e mission, scopri i dettagli della nostra vision e mission imprenditoriale">
-<meta name="keywords" content="Vision &amp; Mission, obiettivi dell'azienda, obiettivi, admize">
+<meta name="keywords" content="Vision &amp; Mission, obiettivi dell'azienda, obiettivi, nexsiadv">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Vision e Mission</title>

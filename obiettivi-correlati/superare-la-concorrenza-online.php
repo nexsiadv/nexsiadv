@@ -30,7 +30,7 @@
                 <div class="clearer thirty"></div>
                 <h2>Primeggiare e sopravanzare i tuoi concorrenti online</h2>
                 <h3>Servizi, consulenze e strategie per primeggiare online e sopravanzare sulla concorrenza</h3>
-                <p><strong>Se sei alla ricerca di un interlocutore serio ed affidabile per gestire il tuo posizionamento strategico on line, noi di Admize possiamo fare al caso tuo!</strong></p>
+                <p><strong>Se sei alla ricerca di un interlocutore serio ed affidabile per gestire il tuo posizionamento strategico on line, noi di Nexsiadv possiamo fare al caso tuo!</strong></p>
                 <p>Per mezzo dei nostri servzi in OUTOSOURCING di WEB MANAGEMENT e WEB MARKETING &amp; ADVERTISING MANAGEMENT <strong>puoi garantire alla tua azienda una struttura web <em>(e-business)</em> perfomarmente, evoluta ed aggressiva,</strong> gestita in modo da essere sempre avanti su i tuoi concorrenti più diretti. </p>
                 <h3>Cosa possiamo fare per te?</h3>
                 <p>Possiamo garantirti servizi FULL-MANTEINANCE e TEMPORARY MANAGEMENT per gestire la tua piattaforma e il tuo MARKETING MX e WEB MARKETING per il web.</p>

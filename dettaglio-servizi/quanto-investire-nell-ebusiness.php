@@ -6,11 +6,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Scopri quale soluzione &egrave; pi&ugrave; adatta alle tue esigenze. Admize sviluppa soluzioni E-BUSINESS ALL-IN-ONE e su misura per la piccola e media impresa">
+<meta name="description" content="Scopri quale soluzione &egrave; pi&ugrave; adatta alle tue esigenze. Nexsiadv sviluppa soluzioni E-BUSINESS ALL-IN-ONE e su misura per la piccola e media impresa">
 <meta name="keywords" content="e-business, e-business full manteinance, assistenza tecnica, consulenza, e-business starter kit, contesto web, e-commerce, cms, web adv, web advertising, advertising, budget, servizi, costi e-business, costo progetto, costi e-business, dettagli dei servizi, soluzioni piccola e media impresa, soluzioni pmi">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Quanto investire nell'e-Business? Scopri le Soluzioni E-BUSINESS ALL-IN-ONE Admize e l'offerta su misura per la piccola e media impresa</title>
+<title>Quanto investire nell'e-Business? Scopri le Soluzioni E-BUSINESS ALL-IN-ONE Nexsiadv e l'offerta su misura per la piccola e media impresa</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>

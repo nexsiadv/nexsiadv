@@ -38,7 +38,7 @@
 	
 	if(!isset($hasError)){
 		/*$emailTo = 'info@ecoseekr.eu';*/
-		$emailTo = 'info@hostesspro.com';
+		$emailTo = 'info@nexsiadv.com';
 		$subject = 'Contatto dal sito HostessPRO';
 		$headers = 'Richiesta di contatto da: ' . $email;
 		$body = "Nome: $nome \nCognome: $cognome \nEmail del contatto: $email";
@@ -51,7 +51,7 @@
 		
 		if($mail){
 			echo 'OK';
-			mail($autoTo, $autoreplySubject, $autoreplyMessage, 'From: noreply@hostesspro.com');
+			mail($autoTo, $autoreplySubject, $autoreplyMessage, 'From: noreply@nexsiadv.com');
 		}
 		else
 		{

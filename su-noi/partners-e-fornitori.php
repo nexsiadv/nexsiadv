@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Partners e fornitori tecnologici admize srl">
+<meta name="description" content="Partners e fornitori tecnologici nexsiadv">
 <meta name="keywords" content="partner, fornitori">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />

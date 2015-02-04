@@ -7,11 +7,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Collabora con Admize. Lavoriamo con associazioni, liberi professionisti, enti o associazioni">
-<meta name="keywords" content="collaborazioni, collabora con noi, collabora con admize, collaborazioni, associazione, ente, libero profesionista, associazioni, enti, liberi professionisti">
+<meta name="description" content="Collabora con Nexsiadv. Lavoriamo con associazioni, liberi professionisti, enti o associazioni">
+<meta name="keywords" content="collaborazioni, collabora con noi, collabora con Nexsiadv, collaborazioni, associazione, ente, libero profesionista, associazioni, enti, liberi professionisti">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>ADmize | Il primo E-Business System Provider in Italia</title>
+<title>Nexsiadv | Il primo E-Business System Provider in Italia</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?></head>
 <link href="<?php echo $server_url; ?>css/form_2.css" rel="stylesheet" type="text/css">
 </head>
@@ -20,7 +20,7 @@
 <div id="content" class=" clearfix">
     <div class="clearer thirty"></div>
     <div class="mono">
-        <h2 class="icon_intro">Collabora con <strong>Admize</strong>.<br>
+        <h2 class="icon_intro">Collabora con <strong>Nexsiadv</strong>.<br>
         </h2>
     </div>
     <div class="mono">

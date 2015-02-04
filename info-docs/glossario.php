@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Glossario dei termini del sito Admize relativi all'e-commerce, e-business, web-marketing, e internet in generale">
+<meta name="description" content="Glossario dei termini del sito Nexsiadv relativi all'e-commerce, e-business, web-marketing, e internet in generale">
 <meta name="keywords" content="Glossario, glossario dei termini, significato termini, significato termini informatici, termini marketing, termini e-business, termini e-commerce, glossario dei termini informatici, glossario termini, Glossario del web, glossario Internet, glossario termini Web">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Glossario dei termini principali presenti nel sito Admize</title>
+<title>Glossario dei termini principali presenti nel sito Nexsiadv</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>

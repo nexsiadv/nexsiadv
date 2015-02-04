@@ -7,11 +7,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Richiedi oggi la tua consulenza sui servizi Admize.">
+<meta name="description" content="Richiedi oggi la tua consulenza sui servizi Nexsiadv.">
 <meta name="keywords" content="">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
-<title>Richiedi oggi la tua consulenza con Admize.</title>
+<title>Richiedi oggi la tua consulenza con Nexsiadv.</title>
 <?php @include($server_pth."/inc_web/header-util.php"); ?></head>
 <link href="<?php echo $server_url; ?>css/form_2.css" rel="stylesheet" type="text/css">
 </head>
@@ -20,7 +20,7 @@
 <div id="content" class=" clearfix">
     <div class="clearer thirty"></div>
     <div class="mono">
-        <h2 class="icon_intro">Richiedi oggi la tua consulenza Admize.<br>
+        <h2 class="icon_intro">Richiedi oggi la tua consulenza Nexsiadv.<br>
             <small>Verrai ricontattato al pi&ugrave; presto da un nostro esperto.</small></h2>
     </div>
     <div class="mono">
