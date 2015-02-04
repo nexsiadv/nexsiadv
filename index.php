@@ -1,7 +1,6 @@
 <?php 
 	$menu['home']='class="active"'; 
 	include("conf/".$_SERVER['SERVER_NAME'].".php");
-	echo $server_pth;
 ?>
 <!DOCTYPE HTML>
 <html>
