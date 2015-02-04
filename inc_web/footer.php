@@ -48,11 +48,12 @@
         </ul>
         <ul class="su_noi">
             <li class="logo">
-                <h3>Nexsiadv Srl</h3>
-                <p>Nexsiadv - di Gabriele Stampa.<br>
-                    Per informazioni: info@nexsiadv.com<br>
-                    Telefono: (+39) 392 6915574<br>
-                    Partita iva 01692830498</p>
+                <h3>Nexsiadv </h3>
+                <p><strong>Noa LTD</strong>.<br>
+                    34, Isolamare Flats N. 6 Sir Henry Bouverie Street Gzira GZR 1220.<br>
+                    Operational office 109, William Reid Street, Gzira, GZR 1033 Malta.<br>
+                    Per informazioni: <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#110;&#101;&#120;&#115;&#105;&#97;&#100;&#118;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#110;&#101;&#120;&#115;&#105;&#97;&#100;&#118;&#46;&#99;&#111;&#109;<br>
+                    Telefono: +356 77006768</p>
             </li>
             <li>
                 <h3>Su di noi</h3>
