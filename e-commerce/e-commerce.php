@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>E-Commerce system provider: sviluppo e gestione in full-outsourcing della tua piattaforma e-commerce</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
 $(function() {
@@ -22,7 +22,7 @@ $(function() {
 </script>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title ecommerce">E-Commerce full-outsourcing</h2>
 </div>
@@ -119,13 +119,13 @@ $(function() {
                 <p> Per porre domande, sollecitare le risposte e ottenere così preziose indicazioni, i siti Web devono interagire con i visitatori, con tutti i mezzi necessari ad accrescere il tasso di Web loyalty. </p>
                 Negli USA tale approccio è ormai così consolidato che quasi il 40% dei siti web dispone di sistemi che sollecitano il feedback da parte dei visitatori e l'acquisizione di informazioni utili a capire l'evoluzione del mercato.</p>
                 <p>Naturalmente, le domande da porsi sono molto di più e, certamente, meno superficiali. <strong>Tuttavia, è proprio a partire da tali semplici considerazioni iniziali che si potrà cominciare ad acquisire coscienza delle proprie potenzialità di mercato.</strong> </p><p><strong>Una buona idea ha bisogno di un lungo periodo di gestazione</strong>, dovrà essere testata e discussa con amici, conoscenti e partner di affari, ricordando che la decisione finale dovrà esser presa a mente fredda, in modo razionale (anche se la dimensione emotiva è fondamentale nella fase di creatività iniziale dell'idea) </p>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
                 <div class="clearer twenty"></div>
             </div>
         </div>
     </div>
 </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

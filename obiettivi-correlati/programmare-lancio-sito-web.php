@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Programmare e sostenere il lancio del tuo nuovo sito web, pianificazione, creazione delle pubblicità e gestione della tua campagna pubblicitaria sul web</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title obiettivi">i tuoi obiettivi</h2>
 </div>
@@ -58,11 +58,11 @@
                     <p><em>"Se la pubblicità non funziona, non resta che cambiare la merce!"<br>
                         Edgar Faure, scrittore e  politico francese</em></p>
                 </div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

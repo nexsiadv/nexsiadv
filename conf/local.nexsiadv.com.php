@@ -1,6 +1,6 @@
 <?php 
 
-$server_pth = "/Volumes/LaCie HD 1Tb/lavori/luca/Gabriele/nexsiadv/sito/";
+$server_pth = $_SERVER["DOCUMENT_ROOT"];
 $server_url = "http://local.nexsiadv.com/";
 
 ?>

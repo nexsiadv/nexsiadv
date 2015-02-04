@@ -7,7 +7,7 @@
 <div class="clearer twenty"></div>
 <h3>Servizi in dettaglio</h3>
 <ul class="menu">
-    <?php @include($server_pth."e-business/inc_web/voci-dettaglio-servizi-ebusiness.php"); ?>
+    <?php @include($server_pth."/e-business/inc_web/voci-dettaglio-servizi-ebusiness.php"); ?>
 </ul>
 <div class="clearer twenty"></div>
-<?php @include($server_pth."obiettivi-correlati/inc_web/obiettivi-correlati.php"); ?>
+<?php @include($server_pth."/obiettivi-correlati/inc_web/obiettivi-correlati.php"); ?>

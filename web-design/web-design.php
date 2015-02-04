@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Admize, consulenze e progetti per il web Design, scopri i nostri servizi per il web design, l'interfaccia utente e la gestione della canalizzazione delle visite per il tuo sito web</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
@@ -22,12 +22,12 @@
 </script>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title web_design">Web Design</h2>
 </div>
 <div id="content" class="clearfix">
-    <?php @include($server_pth."../inc_web/tabs.php"); ?>
+    <?php @include($server_pth."/inc_web/tabs.php"); ?>
     <div class="tab_container">
         <div class="tab_content">
             <?php @include("inc_web/a-cosa-serve.php"); ?>
@@ -59,11 +59,11 @@
                     <li>Controllo, valutazione e manutenzione del sito.</li>
                 </ul>
                 <p>Per quanto essenziali, <strong>questi punti sono solo l'inizio di un processo per sua natura in continuo perfezionamento</strong> ed adattamento della canalizzazione dell'utente verso l'obiettvo finale del sito: portare velocemente il cliente a voi e soprattutto <strong>creare una fidelizzazione sempre più solida e concreta</strong>.</p>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

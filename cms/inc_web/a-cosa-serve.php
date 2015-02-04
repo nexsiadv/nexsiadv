@@ -10,5 +10,5 @@
     <h2>Come...</h2>
     <h3>Le operazioni di aggiornamento vengono infatti effettuate tramite un'interfaccia web che <strong>non richiede conoscenze informatiche superiori</strong> ad un utilizzo di base di un	comune word processor (del tipo: punta il mouse, scrivi il testo, clicca su &quot;salva&quot; ed il sito &egrave; aggiornato!).</h3>
     <h3>Non ti devi preoccupare della grafica (l'applicazione viene installata sull'impianto grafico che preferisci) o del codice html: questo &egrave; un bel vantaggio perch&eacute; cos&igrave; puoi concentrarti sui contenuti, per rendere il tuo sito pi&ugrave; aggiornato e pi&ugrave; interessante per i tuoi clienti.</h3>
-    <?php @include($server_pth."inc_web/request_button.php"); ?>
+    <?php @include($server_pth."/inc_web/request_button.php"); ?>
 </div>

@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Aumentare il numero di utenti qualificati sul tuo sito web attraverso il web advertisign o la pubblicità online</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title obiettivi">i tuoi obiettivi</h2>
 </div>
@@ -63,11 +63,11 @@
                     <li><strong> Assistenza e aggiornamento </strong>
                     <li><strong>Gestione in full-outsourcing del tuo contesto web e della campagna pubblicitaria. </strong>
                 </ul>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

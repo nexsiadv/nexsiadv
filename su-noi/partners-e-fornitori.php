@@ -12,11 +12,11 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Partners e Fornitori tecnologici</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <link href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -99,6 +99,6 @@
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

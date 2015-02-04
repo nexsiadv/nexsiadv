@@ -15,10 +15,10 @@ shockwave flash,web designer,flash xml">
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Flash design, interattività, applicazioni e sviluppi ondemand su piattaforma adobe flash</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -50,11 +50,11 @@ shockwave flash,web designer,flash xml">
                 <p>Riteniamo che la tecnologia Adobe Flash <strong>riteniamo opportuno che questa sia utilizzata solamente in alcuni casi</strong>, dove si rende opportuna, necessaria e dove altri tipi di programmazione non riescono ad eguagliarne le principali funzionalità. <br>
                     - <strong>L'abuso della tecnologia Adobe Flash a può infatti penalizzare moltissimo il tuo contesto web</strong>!</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

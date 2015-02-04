@@ -10,5 +10,5 @@
     <h3>L’<strong>esperienza utente</strong>  e l’<strong>usabilit&grave;</strong> esprimono l’<strong>efficacia</strong>, l’<strong>efficienza</strong> e la <strong>soddisfazione</strong> con le quali un utente raggiunge i suoi  obiettivi sul tuo sito web.</h3>
     <h3>La chiave per creare questa comprensione &egrave; una complessa miscela di competenze che deve essere applicata al processo creativo e di sviluppo del tuo sito web, portale o e-commerce.</h3>
     <h3><strong>Un corretto equilibrio, tra forma, funzione, canalizzazione utente ed interazione con il software</strong> &egrave; un compito difficile che noi ci sentiamo in  grado di assolvere con la pi&amp;ugrave; assoluta sicurezza e serenit&agrave;.</h3>
-    <?php @include($server_pth."inc_web/request_button.php"); ?>
+    <?php @include($server_pth."/inc_web/request_button.php"); ?>
 </div>

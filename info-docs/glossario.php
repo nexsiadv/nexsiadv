@@ -10,10 +10,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Glossario dei termini principali presenti nel sito Admize</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="content" class="clearfix">
     <div class="sx">
         <div class="box standard">
@@ -43,7 +43,7 @@
         <p><strong>BPR (Business Process Reengineering)</strong>:riprogettazione radicale dei processi, al fine di raggiungere un miglioramento sostanziale nella performance.</p>
         <a name="breakeven_point"></a>
         <p><strong>Breakeven point:</strong> Punto di pareggio tra entrate del progetto ed costi sostenuti.</p>
-        <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+        <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
         <a name="client_server"></a>
         <p><strong>Client/Server:</strong> Architettura che prevede applicazioni software richiedenti dati ad una macchina remota manipolante i database.</p>
         <a name="cluster_virtuale"></a>
@@ -64,7 +64,7 @@
         <p><strong>Distretti Industriali</strong>: sistemi produttivi locali, caratterizzati da un’elevata concentrazione di imprese industriali nonch&eacute; dalla specializzazione produttiva di sistemi di imprese. I criteri per l'individuazione dei distretti sono stati fissati con il Decreto del Ministero dell'Industria Commercio ed Artigianato del 21 aprile 1993.</p>
         <a name="ebusiness"></a>
         <p><strong>E-Business</strong>: attivit&agrave; e processi aziendali gestiti in modalit&agrave; elettronica, all’interno dell’azienda e nei collegamenti con i business partner, tipicamente secondo la tecnologia Internet; si crea pertanto un nuovo modo di gestire le attivit&agrave; e i processi aziendali, tramite soluzioni ICT (Information and Communication Technology).</p>
-        <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+        <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
         <a name="ecommerce"></a>
         <p><strong>eCommerce</strong>: Commercio Elettronico. Programmi e di gestione attività commerciali Internet.</p>
         <a name="ecrm"></a>
@@ -85,7 +85,7 @@
         <p><strong>Grid Computing</strong>: letteralmente, &quot;calcolo a griglia&quot;, indica un'infrastruttura distribuita per consentire l'utilizzo di risorse di calcolo e di storage provenienti da un numero indistinto di calcolatori (anche e soprattutto di potenza non particolarmente elevata) interconnessi da una rete (solitamente, ma non necessariamente, Internet). Le griglie di calcolo vengono prevalentemente utilizzate per risolvere problemi computazionali di larga scala in ambito scientifico e ingegneristico.</p>
         <a name="helpdesk"></a>
         <p><strong>Helpdesk:</strong> Reparto che fornisce supporto ed assistenza agli utenti dei sistemi informatici aziendali.</p>
-        <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+        <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
         <a name="housing"></a>
         <p><strong>Housing:</strong> Locazione di un server presso la server farm di un ISP.</p>
         <a name="hosting"></a>
@@ -106,7 +106,7 @@
         <p><strong>Linguaggi di modellazione di processi</strong>: nati per descrivere graficamente i business process. Vengono utilizzati prettamente dall’analista funzionale che, attraverso la notazione grafica, &egrave; in grado di schematizzare il processo. Tra i pi&amp;ugrave; usati annoveriamo BPMN e UML (Activity Diagram).</p>
         <a name="marketplace"></a>
         <p><strong>Marketplace:</strong> Sito per compra vendita di prodotti e servizi.</p>
-        <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+        <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
         <a name="odbc"></a>
         <p><strong>ODBC</strong>: Protocollo di accesso ai database.</p>
         <a name="olap"></a>
@@ -127,7 +127,7 @@
         <p><strong>Procurement:</strong> Approvvigionamento. Indica l'attività aziendale per dotarsi dei prodotti, servizi e materiali necessari ai cicli di produzione o rivendita.</p>
         <a name="prospect"></a>
         <p><strong>Prospect:</strong> Potenziale cliente manifestante un interesse ai prodotti aziendali.</p>
-        <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+        <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
         <a name="roi"></a>
         <p><strong>ROI:</strong> Ritorno dell'Investimento. Prospetto con i ritorni attesi per un investimento.</p>
         <a name="sistema_di_crm"></a>
@@ -150,6 +150,6 @@
         <p><strong>Web Service</strong>: sistema software progettato per supportare l'interoperabilit&agrave; tra diversi sistemi su di una medesima rete; caratteristica fondamentale di un Web Service &egrave; quella di offrire un'interfaccia software (descritta in un formato automaticamente elaborabile quale, ad esempio, il WSDL), utilizzando la quale altri sistemi possono interagire con il Web Service stesso attivando le operazioni descritte nell'interfaccia tramite appositi &quot;messaggi&quot; inclusi in una &quot;busta&quot; SOAP: tali messaggi sono, solitamente, trasportati tramite il protocollo HTTP e formattati secondo lo standard XML.</p>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

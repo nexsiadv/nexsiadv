@@ -13,7 +13,7 @@
 <meta name="googlebot" content="index, follow" />
 <title>Dove siamo, indirizzo e indicazioni stradali di admize srl</title>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=it&amp;key=ABQIAAAAzqsavBJCgG867oSmqSeLyBTtth_er7mFMtpWXhZZPzvbi9Ka7RR80ELa7nUGZVq6bHYsFkjcKXaDJw"></script>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script type="text/javascript">
 
 var directionsService = new google.maps.DirectionsService();
@@ -81,7 +81,7 @@ function calcRoute() {
 </script>
 </head>
 <body onLoad="initialize()">
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -111,6 +111,6 @@ function calcRoute() {
         <div id="panel"></div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

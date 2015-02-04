@@ -11,9 +11,9 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Vision e Mission</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?></head>
+<?php @include($server_pth."/inc_web/header-util.php"); ?></head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -51,11 +51,11 @@
                 <p> <strong>Per questo sviluppiamo innovativi modelli di e-business per aumentare la vostra competitività, semplicemente, integrando con successo internet nel vostro modello di business tradizionale. </strong></p>
                 <p><strong>Accompagnandovi passo dopo passo</strong>, anno dopo anno, <strong>nella gestione del vostro nuovo ramo d'impresa digitale</strong>,  possiamo garantirvi il supporto e l'assistenza necessari per il mantenimento della <strong>piena efficienza strategica ed operativa della vostra nuova espressione digitale d'azienda</strong> in modo da raggiungere e mantenere nel tempo una reale costruzione di valore.</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

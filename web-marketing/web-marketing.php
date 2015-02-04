@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Web marketing, come il marketing per il web, trasforma il tuo investimento online in un successo</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
 	$(function() {
@@ -21,12 +21,12 @@
 </script>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title web_marketing">Web Marketing</h2>
 </div>
 <div id="content" class="clearfix">
-    <?php @include($server_pth."../inc_web/tabs.php"); ?>
+    <?php @include($server_pth."/inc_web/tabs.php"); ?>
     <div class="tab_container">
         <div class="tab_content">
             <?php @include("inc_web/a-cosa-serve.php"); ?>
@@ -67,11 +67,11 @@
                     <p>La vera essenza del marketing, del saper fare, dell'imprenditoria, e della conoscenza stessa è la comunicazione. Per cui se un manager, un professionista, un industriale, uno scienziato o un politico vogliono migliorare la loro attività e con essa le sorti della vita sul nostro pianeta devono fare in modo che le loro competenze siano messe a disposzione della più ampia e diffusa collaborazione tra i vari elementi della società globale.<br>
                         C.W. Brown </p>
                 </div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

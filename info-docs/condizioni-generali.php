@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Condizioni generali di uso dei servizi Admize</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -33,11 +33,11 @@
                 <h3>Introduzione</h3>
                 <p>testo normativa</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

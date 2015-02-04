@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Ti aiutiamo a posizionare il tuo e-business o e-commerce sui motori di ricerca ed offriamo strategie e servizi personalizzati per la promozione su Internet e la registrazione sui motori di ricerca</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title obiettivi">i tuoi obiettivi</h2>
 </div>
@@ -41,11 +41,11 @@
                     <p>Nel cliente soddisfatto del tuo sito web, si genera subito un parere positivo sulla tua attività online, che si estende fino al concetto reale della tua azienda e dei tuoi prodotti.<br>
                     </p>
                 </div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

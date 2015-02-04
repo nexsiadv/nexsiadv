@@ -11,10 +11,10 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Campagne pubblicitarie online per la promozione dei siti web con google adword</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title servizi">Servizi in dettaglio</h2>
 </div>
@@ -46,7 +46,7 @@
                     <li>Attiviamo i tuoi canali pubblicitari</li>
                     <li>Ottimizziamo costantemente la tua campagna in funzione dei risultati</li>
                 </ul>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
                 <h3>Dove vengono visutalizzati gli annunci?</h3>
                 <p>Gli annunci AdWords <strong>vengono visualizzati insieme ai risultati di ricerca</strong> quando un utente esegue una ricerca su Google <strong>con una delle parole chiave che abbiamo specificato </strong>per i tuoi prodotti o servizi. </p>
                 <p>Gli annunci <strong>vengono visualizzati sotto il titolo "Link sponsorizzati" nella colonna laterale di una pagina</strong> di ricerca e possono essere visualizzati anche in altre posizioni sopra i risultati di ricerca gratuiti.</p>
@@ -54,11 +54,11 @@
                 <h3>Che formati di annunci possiamo pubblicare?</h3>
                 <p><strong>Possiamo  scegliere tra diversi formati di annunci,</strong> tra cui annunci di testo, annunci illustrati e annunci video; inoltre, potrai monitorare facilmente il rendimento degli annunci tramite i rapporti che ti renderemo disponibili.</p>
                 <div class="clearer twenty"></div>
-                <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

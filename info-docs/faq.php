@@ -12,10 +12,10 @@ piano marketing, comunicazione integrata, analisi web, performance web, e-commer
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>ADmize | Il primo E-Business System Provider in Italia</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="content" class="clearfix">
     <div class="sx">
         <div class="box standard">
@@ -57,6 +57,6 @@ piano marketing, comunicazione integrata, analisi web, performance web, e-commer
         <div class="clearer twenty"></div>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

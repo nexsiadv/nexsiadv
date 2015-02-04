@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Informazioni societarie e bancarie</title>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <style>
 table {
 	padding: 10px 0;
@@ -23,7 +23,7 @@ table td{
 </style>
 </head>
 <body>
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -99,11 +99,11 @@ table td{
                     </tr>
                 </table>
                 
-                    <?php @include($server_pth."../inc_web/request_button_short.php"); ?>
+                    <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

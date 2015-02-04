@@ -13,7 +13,7 @@
 <meta name="googlebot" content="index, follow" />
 <title>Casi di studio e-business, e-marketing, piattaforme web 2.0 evolute</title>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=it&amp;key=ABQIAAAAzqsavBJCgG867oSmqSeLyBTtth_er7mFMtpWXhZZPzvbi9Ka7RR80ELa7nUGZVq6bHYsFkjcKXaDJw"></script>
-<?php @include($server_pth."../inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <link href="<?php echo $server_url; ?>css/tabs-slideshow.css" rel="stylesheet" type="text/css">
 <style>
 .gallery {
@@ -44,7 +44,7 @@
 </style>
 </head>
 <body onLoad="initialize()">
-<?php @include($server_pth."../inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title noi">Su di noi</h2>
 </div>
@@ -197,6 +197,6 @@ $(function() {
 });
 </script>
 </div>
-<?php @include($server_pth."../inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>

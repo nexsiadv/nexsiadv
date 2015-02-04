@@ -12,11 +12,11 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>ADmize | Il primo E-Business System Provider in Italia</title>
-<?php @include($server_pth."inc_web/header-util.php"); ?></head>
+<?php @include($server_pth."/inc_web/header-util.php"); ?></head>
 <link href="<?php echo $server_url; ?>css/form_2.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<?php @include($server_pth."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="content" class=" clearfix">
     <div class="clearer thirty"></div>
     <div class="mono">
@@ -122,7 +122,7 @@
         </form>
     </div>
 </div>
-<?php @include($server_pth."inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script src="<?php echo $server_url; ?>js/jquery.validate.js" type="text/javascript" charset="utf-8"></script>
