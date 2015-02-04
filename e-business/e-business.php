@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Admize &egrave; il tuo consulente e fornitore di soluzioni e-business evolute per aumentare la competivit&agrave; della tua azienda.</title>
-<?php @include($server_url."inc_web/header-util.php"); ?>
+<?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script> 
 	$(function() {
@@ -21,12 +21,12 @@
 </script>
 </head>
 <body>
-<?php @include($server_url."inc_web/header.php"); ?>
+<?php @include($server_pth."/inc_web/header.php"); ?>
 <div id="sezione">
     <h2 class="title ebusiness">E-Business</h2>
 </div>
 <div id="content" class="clearfix">
-    <?php @include($server_url."inc_web/tabs.php"); ?>
+    <?php @include($server_pth."/inc_web/tabs.php"); ?>
     <div class="tab_container">
         <div class="tab_content">
             <?php @include("inc_web/a-cosa-serve.php"); ?>
@@ -50,11 +50,11 @@
                     <div class="ribbon_tips"></div>
                     <p>Internet, opportunamente integrato, aiuta lo sviluppo e il rafforzamento del valore delle relazioni con i propri clienti e fornitori, modificandone l'evoluzione, la facilit&agrave;, i tempi di attuazione e le modalit&agrave; costruttive. In altre parole ricostituisce le strategie di connettivit&agrave; con il mercato e la loro attuazione operativa.</p>
                 </div>
-                <?php @include($server_url."inc_web/request_button_short.php"); ?>
+                <?php @include($server_pth."/inc_web/request_button_short.php"); ?>
             </div>
         </div>
     </div>
 </div>
-<?php @include($server_url."/inc_web/footer.php"); ?>
+<?php @include($server_pth."/inc_web/footer.php"); ?>
 </body>
 </html>
