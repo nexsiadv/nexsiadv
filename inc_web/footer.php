@@ -74,7 +74,7 @@
                 <ul class="submenu">
                     <li></span>
                         <?php /*?><a href="#" class="icon linkedin">LinkedIn</a><?php */?>
-                        <a href="http://www.facebook.com/pages/Admize-Your-e-Business-System-Provider/215104145188122" target="_blank" class="icon facebook">Facebook</a> <a href="http://www.twitter.com/admizesrl" class="icon twitter">Twitter</a>
+                        <a href="http://www.facebook.com/nexsiadv" target="_blank" class="icon facebook">Facebook</a> <a href="http://www.twitter.com/Nexsiadv" class="icon twitter">Twitter</a>
                         <?php /*<a href="#" class="icon rssfeed">RSS Feed</a> */ ?>
                     </li>
                 </ul>

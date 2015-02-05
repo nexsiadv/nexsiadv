@@ -2,7 +2,7 @@
   <div id="header"> <a href="<?php echo $server_url; ?>index.php">
     <h1 id="logo">Nexsiadv e-business system provider</h1>
     </a>
-    <div id="subnav"><a href="<?php echo $server_url; ?>lavora-con-noi.php" class="voice puzzle">lavora con noi</a><a href="<?php echo $server_url; ?>richiesta-informazioni.php" class="voice email">contatti</a><span class="voice baloon">seguici su:</span> <a href="#" class="icon linkedin">LinkedIn</a> <a href="http://www.facebook.com/pages/Admize-Your-e-Business-System-Provider/215104145188122" target="_blank" class="icon facebook">Facebook</a> <a href="http://www.twitter.com/admizesrl" target="_blank" class="icon twitter">Twitter</a> <?php /*<a href="#" class="icon rssfeed">RSS Feed</a> */ ?></div>
+    <div id="subnav"><a href="<?php echo $server_url; ?>lavora-con-noi.php" class="voice puzzle">lavora con noi</a><a href="<?php echo $server_url; ?>richiesta-informazioni.php" class="voice email">contatti</a><span class="voice baloon">seguici su:</span> <a href="http://www.facebook.com/nexsiadv" target="_blank" class="icon facebook">Facebook</a> <a href="http://twitter.com/Nexsiadv" target="_blank" class="icon twitter">Twitter</a> <?php /*<a href="#" class="icon rssfeed">RSS Feed</a> */ ?></div>
     <nav>
       <ul>
         <li><a href="<?php echo $server_url; ?>index.php" <?php echo $menu['home']?>><img src="<?php echo $server_url; ?>images/menu/home.png" width="19" height="26" alt="home"></a></li>
