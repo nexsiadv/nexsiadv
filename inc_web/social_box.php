@@ -33,5 +33,5 @@
 </div>
 
 <div style="float: left; margin: 20px 0 0 0;">
-	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Admize-Your-e-Business-System-Provider/215104145188122" width="440" show_faces="true" border_color="#ececec" stream="false" header="true"></fb:like-box></div>
+	<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/nexsiadv" width="440" show_faces="true" border_color="#ececec" stream="false" header="true"></fb:like-box></div>
 </div>
