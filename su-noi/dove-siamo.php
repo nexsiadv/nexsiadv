@@ -12,7 +12,7 @@
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <title>Dove siamo, indirizzo e indicazioni stradali di Nexsiadv</title>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=it&amp;key=ABQIAAAAzqsavBJCgG867oSmqSeLyBTtth_er7mFMtpWXhZZPzvbi9Ka7RR80ELa7nUGZVq6bHYsFkjcKXaDJw"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=it&amp;key=AIzaSyDcbpO6ouevRCL6hsgz1vNwmqSsBRLCMf8"></script>
 <?php @include($server_pth."/inc_web/header-util.php"); ?>
 <script type="text/javascript">
 
