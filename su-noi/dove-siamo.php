@@ -96,19 +96,19 @@ function calcRoute() {
         <div class="clearer forty"></div>
         <div class="googlemap" id="map_canvas"></div>
         <div class="clearer ten"></div>
-        <div style="floating: left;">
+        <?php /*<div style="floating: left;">
             <label><strong>Come arrivi?</strong>
                 <select id="partenza" onChange="calcRoute();">
                     <option value="">--</option>
                     <option value="Piazza Dante - livorno">dalla stazione FS</option>
                     <option value="Piazzale Corradino D'Ascanio - pisa">dall'aereoporto</option>
                 </select>
-                <input type="hidden" id="arrivo" value="Via Nicolodi 54 - livorno">
+                <input type="hidden" id="arrivo" value="Triq Henry F. Bouverie, Tas-Sliema, Malta">
                 <?php //<input id="submitmap" type="submit" value="trova percorso sulla mappa"> ?>
             </label>
         </div>
         <div class="clearer ten"></div>
-        <div id="panel"></div>
+        <div id="panel"></div> */ ?>
     </div>
 </div>
 <?php @include($server_pth."/inc_web/footer.php"); ?>
