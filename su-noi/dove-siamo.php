@@ -21,7 +21,7 @@ var directionsDisplay = new google.maps.DirectionsRenderer();
 
 function initialize() {
 	var latlng = new google.maps.LatLng(43.56695, 10.33908);
-	var autostrada = new google.maps.LatLng(43.61731232316635, 10.356674194335938);
+	var autostrada = new google.maps.LatLng(35.9080095, 14.497368499999993);
 	var myOptions = {
 		zoom: 15,
 		center: latlng,
@@ -42,10 +42,10 @@ function initialize() {
 	// Crea il codice per il tooltip di info 
 	var tooltip = '<div id="tooltip">'+
         '<h3>Nexsiadv </h3>'+
-        '<p>Via Nicolodi 54,<br>'+
-        '57121 Livorno (Italy).<br>'+
-        'Mail: <a href="mailto:info@nexsiadv.com">info@nexsiadv.com</a><br>'+
-        'Telefono: (+39) 0586 405267</p>'+
+        '<p>34, Isolamare Flats N. 6 Sir Henry Bouverie Street Gzira GZR 1220.<br>'+
+        'Operational office 109, William Reid Street, Gzira, GZR 1033 Malta.<br>'+
+        'Per informazioni: <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#110;&#101;&#120;&#115;&#105;&#97;&#100;&#118;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#110;&#101;&#120;&#115;&#105;&#97;&#100;&#118;&#46;&#99;&#111;&#109;</a>.<br>'+
+        'Telefono: +356 77006768</p>'+
         '</div>';
 		
     var infowindow = new google.maps.InfoWindow({
