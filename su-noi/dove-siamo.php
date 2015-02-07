@@ -20,7 +20,7 @@ var directionsService = new google.maps.DirectionsService();
 var directionsDisplay = new google.maps.DirectionsRenderer();
 
 function initialize() {
-	var latlng = new google.maps.LatLng(43.56695, 10.33908);
+	var latlng = new google.maps.LatLng(35.9080095, 14.497368499999993);
 	var autostrada = new google.maps.LatLng(35.9080095, 14.497368499999993);
 	var myOptions = {
 		zoom: 15,
