@@ -1,3 +1,4 @@
+<?php @include($server_pth."/inc_web/analyticstracking.php"); ?>
 <header>
   <div id="header"> <a href="<?php echo $server_url; ?>index.php">
     <h1 id="logo">Nexsiadv e-business system provider</h1>
